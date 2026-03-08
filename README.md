@@ -98,6 +98,8 @@
   * ゼロトラスト・セキュリティを前提とした開発環境の構築、運用フローの策定
     * MDM(モバイルデバイスマネジメント)環境の構築、運用フローの策定
     * IDaaS (Okta) を中心としたIdP, SaaS 連携
+    * AWS Orgs, GCP Projectsの管理
+    * AI Agents(Claude Code)の導入・コスト管理
   * 利用SaaS
     * Okta
     * PaloAlto社製 Firewall/ SIEMソフトウェア
